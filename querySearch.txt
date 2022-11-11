@@ -1,0 +1,6 @@
+- how to check is number in javascript
+- how to check if string contains number in javascript
+- How can I test if a letter in a string is uppercase or lowercase using js
+- How do I add variables in regex in javascript
+- javascript - Template literal inside of the RegEx
+- Javascript Regex: How to put a variable inside a regular expression?
